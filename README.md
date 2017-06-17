@@ -1,2 +1,2 @@
 # checking_out
-lcg's repository
+lcg's repository,my repository
